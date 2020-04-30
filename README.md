@@ -13,6 +13,8 @@ Navigate to the directory containing the source code ‘ui.py’. Ensure that UI
 [] Execute the code using the command python ui.py 
 ```
 
+![Example](https://github.com/tanyajoon/Interface-for-Pressure-Mattress/blob/master/output.png)
+
 • Click on file button at top left corner.
 
 • Select the folder containing ‘signal.csv’ and ‘video.avi’   
