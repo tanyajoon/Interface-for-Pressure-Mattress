@@ -1,5 +1,5 @@
-Numpy= 1.16.4 
-Pandas= 0.25.1
-PyQt5= 5.14.2
-Pyqtgraph= 0.10.0
-Qt Designer= 5.9.7
+Numpy== 1.16.4 
+Pandas== 0.25.1
+PyQt5== 5.14.2
+Pyqtgraph== 0.10.0
+Qt Designer== 5.9.7
